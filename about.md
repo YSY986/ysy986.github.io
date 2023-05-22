@@ -10,10 +10,6 @@ permalink: /about/
 
 더 넣고 싶은 정보 적기
 
-### 테스트라인
-
-테스트
-
 ### Contact me
 
 [soyoso5@naver.com](mailto:soyoso5@naver.com)
