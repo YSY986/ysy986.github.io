@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+나에 대한 정보 적기
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+더 넣고 싶은 정보 적기
+
+### 테스트라인
+
+테스트
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[soyoso5@naver.com](mailto:soyoso5@naver.com)
